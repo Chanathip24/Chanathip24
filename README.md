@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanathip24&label=Profile%20views&color=0e75b6&style=flat" alt="chanathip24" /> </p>
 
-- 🔭 I’m currently working on [Fullstack Blog](https://github.com/Chanathip24/blog-react-front)
+- 🔭 I’m currently working on [Greenweather Applicatiohn](https://github.com/Chanathip24/GreenWeather)
 
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **ReactJS,NodeJS**
+- 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me **chanathip24.work@gmail.com**
 
